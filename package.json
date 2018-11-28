@@ -1,0 +1,20 @@
+{
+  "name": "gostforestgmailcom_gostfor_617",
+  "version": "0.1.0",
+  "description": "This app will allow you to quickly grab a user's discord id simply by right clicking! This web_extension application was built with Crowdbotics www.crowdbotics.com",
+  "license": "UNLICENSED",
+  "private": true,
+  "author": {
+    "name": "gostforest",
+    "email": "gostforest@gmail.com"
+  },
+  "contributors": [
+  ],
+  "devDependencies": {
+    "eslint": "^4.11.0",
+    "generate-json-webpack-plugin": "^0.2.2",
+    "web-ext": "^2.2.2",
+    "webpack": "^3.8.1"
+  },
+  "dependencies": {}
+}
